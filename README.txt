@@ -7,4 +7,4 @@ Technologies Used:
 3. PHP
 4. Javascript
 
-<img src="cookygiph.gif">
+<img src="websitescreenshot.png">
