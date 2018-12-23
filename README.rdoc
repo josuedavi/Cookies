@@ -2,8 +2,9 @@ Designed by me website
 
 Technologies Used:
 
-1. HTML</li>
-2. CSS(Grid)</li>
-3. PHP</li>
-4. Javascript</li>
+1. HTML
+2. CSS(Grid)
+3. PHP
+4. Javascript
 
+<img src="cookygiph.gif"/>
