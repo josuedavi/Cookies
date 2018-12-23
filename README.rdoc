@@ -1,9 +1,9 @@
-<h1>Designed by me website</h1>
+Designed by me website
 
-<h3>Technologies Used:</h3>
-<ul>
-<li>HTML</li>
-<li>CSS(Grid)</li>
-<li>PHP</li>
-<li>Javascript</li>
-</ul>
+Technologies Used:
+
+1. HTML</li>
+2. CSS(Grid)</li>
+3. PHP</li>
+4. Javascript</li>
+
